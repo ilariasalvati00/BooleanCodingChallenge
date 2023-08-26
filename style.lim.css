@@ -1,0 +1,100 @@
+header> h1{
+    color: #08dc04;
+    text-align:center;
+}
+
+#page{
+    width: 60%;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 20px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-radius: 15px;
+}
+
+#content{
+    width:90%;
+    margin:auto;
+}
+
+header{
+    margin:auto;
+    
+}
+ 
+.background{
+    background-color: #08dc04;
+    height: 50px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.center{
+    display:inline-block;
+}
+
+body{
+    background-image: url("./MaterialeEsercizioLim/background.jpg");
+    background-size: cover;
+}
+
+img{
+    display:block;
+    width: 250px;
+    margin:auto;
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.scooter{
+    margin-top:20px;
+}
+
+.scooter>div>span{
+    color: white;
+    line-height: 20px;
+}
+
+
+
+.stato_carica{
+    border-radius: 5px;
+    height: 20px;
+}
+
+.medio{
+    background-color: orange;
+    width: 30%;
+}
+
+.carico{
+    background-color: #08dc04;
+    width: 60%;
+}
+
+.scarico{
+    background-color: rgba(214, 17, 17, 0.782);
+    width: 15%;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+span{
+    font-size: 12px;
+}
+
+
+
+
+
+
+
